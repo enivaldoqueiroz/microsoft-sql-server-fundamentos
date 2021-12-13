@@ -71,3 +71,5 @@ REFERENCES tb_Produtos (cdProduto);
 
 -- Inserção nas tabelas
 INSERT INTO tb_Produtos VALUES ('Suco de laranja', 4,5);
+
+INSERT INTO tb_Vendas VALUES(4, 3.2)

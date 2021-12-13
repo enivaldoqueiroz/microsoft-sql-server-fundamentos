@@ -1,1 +1,3 @@
-# Microsoft-Sql-Server-Fundamentos
+# Microsoft SQL Server Fundamentos
+
+Scripts com os estudos do SQL Server.

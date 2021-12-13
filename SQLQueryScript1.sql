@@ -26,3 +26,9 @@
 
 -- Nova base de dados 
 CREATE DATABASE dbLojaJailson;
+
+-- Criacao da tabela produtos
+CREATE TABLE tb_DadosProdutos(
+    nmProduto VARCHAR(50) NOT NULL, -- Nome Produto é obrigatorio
+    vlProduto DECIMAL(6,2) NOT NULL
+);
